@@ -1,0 +1,21 @@
+{
+  "name": "public-protos-js",
+  "description": "This is dynamically generated JS package for BuyCoins Protocol Buffer stubs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buycoinsafrica/public-protos-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buycoinsafrica/public-protos-js/issues"
+  },
+  "homepage": "https://github.com/buycoinsafrica/public-protos-js#readme",
+  "dependencies": {
+    "google-protobuf": "^3.13.0"
+  }
+}
