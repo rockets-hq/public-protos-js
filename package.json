@@ -1,20 +1,20 @@
 {
-  "name": "public-protos-js",
-  "description": "This is dynamically generated JS package for BuyCoins Protocol Buffer stubs.",
+  "name": "protos-js",
+  "description": "This is dynamically generated JS package for BuyCoins Protocol Buffer stubs. Updates are automatically pushed via Circle CI to this repo when changes are merged into the main [buycoins-protos](https://github.com/buycoinsafrica/buycoins-protos) master branch.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buycoinsafrica/public-protos-js.git"
+    "url": "git+https://github.com/buycoinsafrica/protos-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/buycoinsafrica/public-protos-js/issues"
+    "url": "https://github.com/buycoinsafrica/protos-js/issues"
   },
-  "homepage": "https://github.com/buycoinsafrica/public-protos-js#readme",
+  "homepage": "https://github.com/buycoinsafrica/protos-js#readme",
   "dependencies": {
     "google-protobuf": "^3.13.0"
   }
