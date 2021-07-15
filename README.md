@@ -6,7 +6,7 @@ This is dynamically generated JS package for BuyCoins Protocol Buffer stubs. Upd
  ```
  "dependencies": {
     ...
-    "public-protos-js": "git+https://github.com/buycoinsafrica/protos-js.git"
+    "public-protos-js": "git+https://github.com/buycoinsafrica/public-protos-js.git"
 }
 ```
 
