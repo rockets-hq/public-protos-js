@@ -1,5 +1,6 @@
 {
   "name": "protos-js",
+  "version": "0.0.1",
   "description": "This is dynamically generated JS package for BuyCoins Protocol Buffer stubs. Updates are automatically pushed via Circle CI to this repo when changes are merged into the main [buycoins-protos](https://github.com/buycoinsafrica/buycoins-protos) master branch.",
   "main": "index.js",
   "scripts": {
